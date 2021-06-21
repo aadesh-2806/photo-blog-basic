@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(18, 9, 59) ;
+}
+h1 {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: cadetblue;
+}
+section {
+    background: url(img0_2560x1600.jpg);
+    background-size: cover ;
+}
+div {
+    background: url(83f59ec7cf88c8f6ecc0428712da0cf57f16ba747138788cc3efc88a77b9b5db.jpg) ;
+    background-size: cover;
+    height: 350px;
+    width: 500px;
+    display: inline-block;
+    margin: 20px;
+    /* flex-direction: row;//remain3 */
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+}
